@@ -1,0 +1,81 @@
+Food,1,Flour - Bread,Khaki,125,47
+Clothing,2,Ice Cream - Chocolate,Pink,178,13
+Electronic,5,Dry Ice,Purple,189,80
+Food,6,Tea - Lemon Green Tea,Indigo,83,16
+Clothing,7,Thyme - Dried,Fuscia,72,85
+Food,8,Squid - Tubes / Tenticles 10/20,Teal,107,55
+Food,9,Nori Sea Weed - Gold Label,Indigo,187,54
+Electronic,11,Bar - Sweet And Salty Chocolate,Mauv,172,84
+Food,13,Eggplant - Regular,Teal,67.0,59
+Food,14,Sobe - Lizard Fuel,Mauv,158,84
+Food,15,Cake Sheet Combo Party Pack,Orange,91,50
+Electronic,16,Scallops - 20/30,Red,108,37
+Food,18,Wine - Mondavi Coastal Private,Violet,197,93
+Electronic,19,Wine - Sogrape Mateus Rose,Fuscia,127,15
+Food,20,Mountain Dew,Goldenrod,78,52
+Clothing,21,Shark - Loin,Puce,166,36
+Food,22,Buttons,Blue,191,62
+Clothing,23,Horseradish Root,Orange,76,44
+Clothing,25,Worcestershire Sauce,Aquamarine,65,93
+Clothing,27,Sprouts - Alfalfa,Orange,108,24
+Food,28,Tea - Earl Grey,Orange,78,72
+Food,30,Ecolab - Ster Bac,Green,164,84
+Electronic,31,Food Colouring - Pink,Yellow,72,42
+Clothing,32,Egg - Salad Premix,Maroon,146,66
+Food,33,Flour - All Purpose,Crimson,55,98
+Clothing,34,Cookies - Assorted,Mauv,158,47
+Food,35,Wine - Champagne Brut Veuve,Yellow,151,68
+Electronic,36,Paste - Black Olive,Puce,150,26
+Food,37,Cauliflower,Khaki,60,47
+Electronic,38,Alize Red Passion,Mauv,139,55
+Clothing,39,Flour - Strong Pizza,Aquamarine,94,88
+Clothing,40,Containter - 3oz Microwave Rect.,Turquoise,171,80
+Food,41,Icecream - Dstk Cml And Fdg,Indigo,148,35
+Electronic,42,Salt - Table,Maroon,144,31
+Electronic,43,Chef Hat 25cm,Red,176,46
+Clothing,44,Pork Salted Bellies,Blue,135,20
+Food,46,Veal - Leg,Yellow,57,47
+Clothing,47,Island Oasis - Pina Colada,Maroon,197,48
+Clothing,48,Extract - Rum,Violet,103,41
+Clothing,49,Coffee - Espresso,Crimson,101,41
+Electronic,50,Cookies Cereal Nut,Aquamarine,146,33
+Electronic,51,Lettuce Romaine Chopped,Teal,192,67
+Food,53,Rice - Jasmine Sented,Teal,136,41
+Electronic,54,Yogurt - Plain,Green,175,37
+Food,55,Cheese - Mascarpone,Orange,192,90
+Electronic,57,Olive - Spread Tapenade,Maroon,75,94
+Food,60,Veal - Slab Bacon,Indigo,187,10
+Electronic,61,Corn Shoots,Violet,200,92
+Clothing,62,Alize Red Passion,Khaki,68,66
+Electronic,63,Foam Dinner Plate,Indigo,168,89
+Food,64,Gatorade - Orange,Puce,56,72
+Clothing,65,Rosemary - Dry,Puce,183,22
+Electronic,66,Cake - Miini Cheesecake Cherry,Green,93,48
+Food,67,Piping - Bags Quizna,Blue,87,40
+Clothing,68,Stainless Steel Cleaner Vision,Goldenrod,51,81
+Electronic,69,Orange Roughy 4/6 Oz,Blue,98,50
+Electronic,70,Chicken - Whole Fryers,Crimson,131,75
+Clothing,71,Petite Baguette,Puce,64,49
+Electronic,72,Sauce - Sesame Thai Dressing,Khaki,168,88
+Clothing,73,Shrimp - Black Tiger 6 - 8,Indigo,157,56
+Food,74,Sobe - Liz Blizz,Puce,104,93
+Food,75,Durian Fruit,Crimson,113,18
+Electronic,78,Snapple Raspberry Tea,Crimson,109,80
+Food,79,Wine - Barbera Alba Doc 2001,Teal,160,85
+Clothing,81,Bread - Granary Small Pull,Red,175,22
+Electronic,82,Calypso - Lemonade,Mauv,171,23
+Clothing,83,Prunes - Pitted,Pink,196,27
+Electronic,84,Butter Sweet,Violet,173,66
+Food,85,Sole - Fillet,Khaki,151,13
+Electronic,86,Beef - Top Sirloin,Purple,106,47
+Food,87,Chicken Giblets,Crimson,98.0,60
+Electronic,88,Sauce - Ranch Dressing,Purple,131,24
+Electronic,90,Sausage - Meat,Yellow,82,88
+Clothing,93,Yokaline,Green,101,39
+Electronic,94,Mint - Fresh,Puce,107,72
+Food,95,Water - Evian 355 Ml,Khaki,62.0,60
+Food,96,Cheese - Ricotta,Pink,115,44
+Food,97,Pumpkin,Blue,86,17
+Electronic,98,Nantucket - Kiwi Berry Cktl.,Green,182,47
+Clothing,99,Langers - Mango Nectar,Goldenrod,142,86
+Clothing,100,Avocado,Turquoise,190,20
