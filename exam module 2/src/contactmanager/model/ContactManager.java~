@@ -1,0 +1,12 @@
+package contactmanager.model;
+
+import java.util.List;
+
+public class ContactManager {
+    private static ContactManager instance;
+    private List<Contact> contacts;
+
+    private ContactManager() {
+        
+    }
+}
